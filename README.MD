@@ -3,3 +3,6 @@ This repository accompanies my YouTube video series on building a RESTful API wi
 
 ## Usage
 Check out the branch you're interested in (i.e. which belongs to the video in my series you just watched), ```git clone``` it and thereafter run ```npm install```.
+
+
+https://www.youtube.com/watch?v=srPXMt1Q0nY
